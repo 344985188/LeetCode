@@ -1,7 +1,7 @@
 package main.java.study.leetcode;
 
-import main.java.study.dataStructure.LinkList;
-import main.java.study.dataStructure.ListNode;
+import main.java.study.structure.LinkList;
+import main.java.study.structure.ListNode;
 
 /**
  *输入: 1->2->3->4->5->NULL

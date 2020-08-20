@@ -1,6 +1,6 @@
 package main.java.study.leetcode;
 
-import main.java.study.dataStructure.Stack;
+import main.java.study.structure.Stack;
 
 /**
  * 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。
